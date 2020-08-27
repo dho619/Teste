@@ -1,0 +1,6 @@
+Imagem    qual o predominante	 Se tem essas doenças            o nível de severidade
+id,      predominant_stress,    miner, rust, phoma, cercospora, severity
+
+1739,     5,                     0,     1,     0,     1,          1
+
+predominant_stress 5 -> aparenta ser, quando tem duas doenças
